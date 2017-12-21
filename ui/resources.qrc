@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/checkbox.png</file>
+    <file>images/down_arrow.png</file>
+    <file>images/favicon.ico</file>
+    <file>images/handle.png</file>
+    <file>images/icon.png</file>
+    <file>images/pixi_logo_new.png</file>
+    <file>images/red-x.png</file>
+    <file>images/retail_logo.png</file>
+    <file>images/thumbs-down.png</file>
+    <file>images/wholesale_logo.png</file>
+  </qresource>
+</RCC>
